@@ -8,8 +8,13 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/smartcraze/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1651-shuffle-string](https://github.com/smartcraze/Leetcode/tree/master/1651-shuffle-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/smartcraze/Leetcode/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [1651-shuffle-string](https://github.com/smartcraze/Leetcode/tree/master/1651-shuffle-string) |
 <!---LeetCode Topics End-->
