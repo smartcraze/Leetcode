@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/smartcraze/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/smartcraze/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/smartcraze/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -44,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0908-middle-of-the-linked-list](https://github.com/smartcraze/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/smartcraze/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
