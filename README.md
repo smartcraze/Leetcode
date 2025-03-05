@@ -3,6 +3,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/smartcraze/Leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/smartcraze/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/smartcraze/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/smartcraze/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -31,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/smartcraze/Leetcode/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/smartcraze/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smartcraze/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/smartcraze/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/smartcraze/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/smartcraze/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
