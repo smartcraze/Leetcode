@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/smartcraze/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/smartcraze/Leetcode/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/smartcraze/Leetcode/tree/master/0686-repeated-string-match) |
 | [1651-shuffle-string](https://github.com/smartcraze/Leetcode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/smartcraze/Leetcode/tree/master/1797-goal-parser-interpretation) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/smartcraze/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/smartcraze/Leetcode/tree/master/0242-valid-anagram) |
 | [3227-find-missing-and-repeated-values](https://github.com/smartcraze/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -75,4 +77,5 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/smartcraze/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/smartcraze/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
