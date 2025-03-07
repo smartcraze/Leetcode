@@ -11,11 +11,10 @@ public:
     }
     vector<int> closestPrimes(int left, int right) {
         vector<int> allprimes;
-        while (left <= right) {
-            if (isprime(left)) {
-                allprimes.push_back(left);
+         for (int i = left; i <= right; i++) { // Using for-loop instead of while
+            if (isprime(i)) {
+                allprimes.push_back(i);
             }
-            left++;
         }
         if (allprimes.size() < 2) return {-1, -1};
         int num1 = -1, num2 = -1;
