@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/smartcraze/Leetcode/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smartcraze/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/smartcraze/Leetcode/tree/master/1651-shuffle-string) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/smartcraze/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/smartcraze/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
