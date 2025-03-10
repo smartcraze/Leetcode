@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/smartcraze/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/smartcraze/Leetcode/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/smartcraze/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smartcraze/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/smartcraze/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/smartcraze/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/smartcraze/Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +93,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/smartcraze/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/smartcraze/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
