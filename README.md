@@ -14,6 +14,7 @@
 | [0014-longest-common-prefix](https://github.com/smartcraze/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/smartcraze/Leetcode/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/smartcraze/Leetcode/tree/master/0686-repeated-string-match) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/smartcraze/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/smartcraze/Leetcode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/smartcraze/Leetcode/tree/master/1797-goal-parser-interpretation) |
 ## Trie
@@ -74,6 +75,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/smartcraze/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/smartcraze/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/smartcraze/Leetcode/tree/master/0242-valid-anagram) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/smartcraze/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3227-find-missing-and-repeated-values](https://github.com/smartcraze/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -93,6 +95,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/smartcraze/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/smartcraze/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
