@@ -30,6 +30,7 @@
 | [1651-shuffle-string](https://github.com/smartcraze/Leetcode/tree/master/1651-shuffle-string) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/smartcraze/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/smartcraze/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/smartcraze/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/smartcraze/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
 |  |
@@ -100,4 +101,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/smartcraze/Leetcode/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/smartcraze/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/smartcraze/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
