@@ -26,6 +26,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/smartcraze/Leetcode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/smartcraze/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smartcraze/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/smartcraze/Leetcode/tree/master/1651-shuffle-string) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/smartcraze/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/smartcraze/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/smartcraze/Leetcode/tree/master/0231-power-of-two) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/smartcraze/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/smartcraze/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smartcraze/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/smartcraze/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/smartcraze/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Greedy
+|  |
+| ------- |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/smartcraze/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
