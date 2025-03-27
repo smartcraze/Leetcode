@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/smartcraze/Leetcode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/smartcraze/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/smartcraze/Leetcode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/smartcraze/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/smartcraze/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/smartcraze/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/smartcraze/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/smartcraze/Leetcode/tree/master/0242-valid-anagram) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/smartcraze/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -89,6 +91,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/smartcraze/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/smartcraze/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/smartcraze/Leetcode/tree/master/0242-valid-anagram) |
 ## Number Theory
@@ -112,9 +115,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/smartcraze/Leetcode/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/smartcraze/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/smartcraze/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/smartcraze/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
