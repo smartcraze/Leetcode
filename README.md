@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/smartcraze/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/smartcraze/Leetcode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/smartcraze/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/smartcraze/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/smartcraze/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/smartcraze/Leetcode/tree/master/0231-power-of-two) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/smartcraze/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/smartcraze/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
