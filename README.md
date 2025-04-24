@@ -13,6 +13,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/smartcraze/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/smartcraze/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/smartcraze/Leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/smartcraze/Leetcode/tree/master/0412-fizz-buzz) |
 | [0686-repeated-string-match](https://github.com/smartcraze/Leetcode/tree/master/0686-repeated-string-match) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/smartcraze/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1651-shuffle-string](https://github.com/smartcraze/Leetcode/tree/master/1651-shuffle-string) |
@@ -46,6 +47,7 @@
 | [0002-add-two-numbers](https://github.com/smartcraze/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/smartcraze/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/smartcraze/Leetcode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/smartcraze/Leetcode/tree/master/0412-fizz-buzz) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/smartcraze/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/smartcraze/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smartcraze/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -70,6 +72,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/smartcraze/Leetcode/tree/master/0412-fizz-buzz) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/smartcraze/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Recursion
 |  |
