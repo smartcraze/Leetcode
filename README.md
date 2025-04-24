@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/smartcraze/Leetcode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/smartcraze/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/smartcraze/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smartcraze/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/smartcraze/Leetcode/tree/master/1651-shuffle-string) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/smartcraze/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
